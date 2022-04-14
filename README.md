@@ -1,5 +1,7 @@
 ![Moleculer logo](docs/assets/logo.png)
 
+Testing 
+
 ![CI test](https://github.com/moleculerjs/moleculer/workflows/CI%20test/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/github/moleculerjs/moleculer/badge.svg?branch=master)](https://coveralls.io/github/moleculerjs/moleculer?branch=master)
 [![Maintainability](https://api.codeclimate.com/v1/badges/05ef990fe1ccb3e56067/maintainability)](https://codeclimate.com/github/moleculerjs/moleculer/maintainability)
